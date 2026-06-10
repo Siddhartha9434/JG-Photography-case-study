@@ -33,7 +33,7 @@ JG Photography is a responsive portfolio website designed to showcase profession
 
 ## Screenshots
 
-()
+(<img width="1901" height="983" alt="homepage" src="https://github.com/user-attachments/assets/7b88fea0-57bb-4f30-a7ba-d922af5f7409" />)
 
 ## Note
 
