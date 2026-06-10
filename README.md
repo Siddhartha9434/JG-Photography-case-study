@@ -1,4 +1,4 @@
-<img width="1901" height="983" alt="homepage" src="https://github.com/user-attachments/assets/6dd4d50a-2820-4799-b097-e07c8683d99e" /># JG-Photography-case-study
+# JG-Photography-case-study
 Professional photography portfolio website developed for a freelance client. Includes project overview, screenshots, features, and live website.
 
 ## Live Website
